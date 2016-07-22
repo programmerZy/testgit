@@ -1,1 +1,6 @@
-111111111111111111111111122222222222222222222222222333333333333ki3 kkkkkkk`
+public class ReadMe{
+	public static void main(String args[]){
+		System.out.println("hello world 的代码")
+	
+	}
+}
